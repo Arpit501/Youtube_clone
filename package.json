@@ -2,6 +2,7 @@
   "name": "namaste-youtube",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://clone-1d1e6.web.app/",
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
     "@testing-library/jest-dom": "^5.17.0",
