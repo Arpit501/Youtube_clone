@@ -6,6 +6,6 @@ export const LIVE_CHAT_COUNT=25;
 
  
 
-export const YOUTUBE_SEARCH_API="https://thingproxy.freeboard.io/fetch/https://clients1.google.com/complete/search?client=youtube&gs_ri=youtube&ds=yt&q=";
+export const YOUTUBE_SEARCH_API="https://cors.bridged.cc/https://clients1.google.com/complete/search?client=youtube&gs_ri=youtube&ds=yt&q=";
 
  
